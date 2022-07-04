@@ -6,7 +6,7 @@
     <title>home</title>
 </head>
 <body>
-<h1>BIENVENIDOS</h1>
+<h1>PROYECTO PROXIMAMENTE</h1>
     
 </body>
 </html>
